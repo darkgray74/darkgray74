@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Silas Bezerra, I'm currently learning TypeScript and React.js
+### Software
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,)](https://skillicons.dev)
+***
+### Tools
+[![My tools](https://skillicons.dev/icons?i=vscode,git,github,bootstrap,postman,vim)](https://skillicons.dev)
+***
+### Database
+[![Database](https://skillicons.dev/icons?i=mongodb,sqlite)](https://skillicons.dev)
 
 <!--
 **darkgray74/darkgray74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
