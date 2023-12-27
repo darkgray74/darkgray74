@@ -1,14 +1,5 @@
-### Hi, I'm Silas Rodrigues! 👋🏽 Welcome!
-### I'm currently learning React.js, TypeScript and Design tools
-### Software
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,redux,nodejs,)](https://skillicons.dev)
-***
-### Tools
-[![My tools](https://skillicons.dev/icons?i=vscode,git,github,bootstrap,figma,xd,ps)](https://skillicons.dev)
-***
-### Database
-[![Database](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Silas
+=============================================================================================================================
 <!--
 **darkgray74/darkgray74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
